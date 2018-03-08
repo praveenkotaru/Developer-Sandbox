@@ -8,3 +8,8 @@ it is interesting to laern github
             flashvars="sessionId={!$Api.Session_ID}&serverUrl={!$Api.Partner_Server_URL_160}"/> 
 </apex:page>
 ==========================This is by praveen========================
+
+
+
+
+LEN( AccountNumber) != 8 ==================this is about account.
